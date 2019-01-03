@@ -32,6 +32,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="data\" />
+    <Folder Include="content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="content\elements.json" />
+    <Content Include="content\recipes.json" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

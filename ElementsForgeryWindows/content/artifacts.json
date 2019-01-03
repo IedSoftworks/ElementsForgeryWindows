@@ -1,0 +1,24 @@
+{
+"Tenit III Artifact":{"value":"12800","rarity":"8|Legendary|orange","description":"Allows the creation of horrendeus amounts of electric energy.","recipe":{"ingredients":{"Iron Ingots":250000,"Artifact Energy":150},"results":{"Electric Energy":2500000000},"time":300},"name":"Tenit III Artifact"},
+"Tenit II Artifact":{"value":"6400","rarity":"16|Epic|purple","description":"Allows the creation of extreme amounts of electric energy.","recipe":{"ingredients":{"Iron Ingots":250000,"Artifact Energy":150},"results":{"Electric Energy":25000000},"time":300},"name":"Tenit I Artifact"},
+"Tenit I Artifact":{"value":"3200","rarity":"32|Rare|red","description":"Allows the creation of big amounts of electric energy.","recipe":{"ingredients":{"Iron Ingots":250000,"Artifact Energy":150},"results":{"Electric Energy":250000},"time":300},"name":"Tenit I Artifact"},
+
+"Spadia Artifact":{"value":"102400","rarity":"1|Overpowered|black","description":"Allows to travel in time.","recipe":{"ingredients":{"Iron Plate":25000,"Obsidian":3000,"Battery Lvl. 9":3,"Artifact Energy":100},"results":{"Time Machine":1},"time":7200},"name":"Spadia Artifact"},
+
+"Hothmit I Artifact":{"value":"800","rarity":"128|Common|blue","description":"Creates fire.","recipe":{"ingredients":{"#Hothmit I Artifact":1,"Artifact Energy":1},"results":{"#Hothmit I Artifact":1,"Fire":50},"time":150},"name":"Hothmit I Artifact"},
+"Hothmit II Artifact":{"value":"1600","rarity":"64|Uncommon|green","description":"Creates fire.","recipe":{"ingredients":{"#Hothmit II Artifact":1,"Artifact Energy":1},"results":{"#Hothmit II Artifact":1,"Fire":150},"time":150},"name":"Hothmit II Artifact"},
+"Hothmit III Artifact":{"value":"3200","rarity":"32|Rare|red","description":"Creates fire.","recipe":{"ingredients":{"#Hothmit III Artifact":1,"Artifact Energy":1},"results":{"#Hothmit III Artifact":1,"Fire":500},"time":150},"name":"Hothmit III Artifact"},
+"Hothmit IV Artifact":{"value":"6400","rarity":"16|Epic|purple","description":"Creates fire.","recipe":{"ingredients":{"#Hothmit IV Artifact":1,"Artifact Energy":1},"results":{"#Hothmit IV Artifact":1,"Fire":2000},"time":150},"name":"Hothmit IV Artifact"},
+"Hothmit V Artifact":{"value":"12800","rarity":"8|Legendary|orange","description":"Creates fire.","recipe":{"ingredients":{"#Hothmit V Artifact":1,"Artifact Energy":1},"results":{"#Hothmit V Artifact":1,"Fire":20000},"time":150},"name":"Hothmit V Artifact"},
+"Hothmit VI Artifact":{"value":"102400","rarity":"1|Overpowered|black","description":"Creates fire.","recipe":{"ingredients":{"#Hothmit VI Artifact":1,"Artifact Energy":1},"results":{"#Hothmit VI Artifact":1,"Fire":100000},"time":150},"name":"Hothmit VI Artifact"},
+
+"Vroc I Artifact":{"value":"3200","rarity":"32|Rare|red","description":"Can create workers, but it does take a long time.","recipe":{"ingredients":{"#Vroc I Artifact":1,"Artifact Energy":15},"results":{"Worker":1,"#Vroc I Artifact":1},"time":172800,"nw":true},"name":"Vroc I Artifact"},
+"Vroc II Artifact":{"value":"6400","rarity":"16|Epic|purple","description":"Can create workers, but it does take a long time.","recipe":{"ingredients":{"#Vroc II Artifact":1,"Artifact Energy":15},"results":{"Worker":1,"#Vroc II Artifact":1},"time":86400,"nw":true},"name":"Vroc II Artifact"},
+"Vroc III Artifact":{"value":"102400","rarity":"1|Overpowered|black","description":"Can create workers, but it does take a long time.","recipe":{"ingredients":{"#Vroc III Artifact":1,"Artifact Energy":15},"results":{"Worker":1,"#Vroc III Artifact":1},"time":7200,"nw":true},"name":"Vroc III Artifact"},
+
+"Teseris Artifact":{"value":"102400","rarity":"1|Overpowered|black","description":"Can teleport items.","recipe":{"ingredients":{"Wood":1},"results":{"Wood":1},"time":0},"name":"Teseris Artifact"},
+
+"Larsrii Artifact":{"value":"102400","rarity":"1|Overpowered|black","description":"Can be used to create powerful weapons and shields.","recipe":{"ingredients":{"Larsrii Artifact":1,"Iron Plate":64},"results":{"Larsrii Core":1},"time":3600},"name":"Larsrii Artifact"}
+
+
+}
