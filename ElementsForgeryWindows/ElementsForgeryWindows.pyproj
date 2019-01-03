@@ -31,6 +31,7 @@
     <InterpreterReference Include="Global|PythonCore|3.6" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="content\img\" />
     <Folder Include="data\" />
     <Folder Include="content\" />
   </ItemGroup>
